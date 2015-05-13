@@ -1,0 +1,33 @@
+{
+    "name": "Grouped-Categories",
+    "dependencies": {
+        "highcharts": "2.3.5"
+    },
+    "version": "1.0.8",
+    "authors": [
+        {
+            "name": "Sebastian Bochan",
+            "email": "sebastian@blacklabel.pl",
+            "url": "http://www.blacklabel.pl"
+        },
+        {
+            "name": "Paweł Fus",
+            "email": "pawel@blacklabel.pl",
+            "url": "http://www.blacklabel.pl"
+        }
+    ],
+    "description": "Module for grouped categories in Highcharts",
+    "main": "grouped-categories.js",
+    "keywords": [
+        "Highcharts"
+    ],
+    "license": "Creative Commons Attribution (CC)",
+    "homepage": "https://blacklabel.github.io/grouped_categories/",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
